@@ -15,6 +15,11 @@ public class 두큐합같게만들기 {
 
 	public static void main(String[] args) {
 		
+		String s = "ABC";
+		s.toLowerCase();
+		char c = 'A';
+		System.out.println(s.toLowerCase());
+		
 		int[][] arr = {
 				{1,1,0},
 				{0,1,0},
